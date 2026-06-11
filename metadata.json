@@ -1,0 +1,6 @@
+{
+  "name": "NexusOS",
+  "description": "A futuristic Cyberpunk-minimalist Android Super-App combining an Advanced IDE, AI Productivity Hub, and Macro Automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
